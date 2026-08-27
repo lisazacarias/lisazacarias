@@ -13,8 +13,8 @@ profile** — the repositories here are mostly my forks of it.
 - **[slaclab/lcls-tools](https://github.com/slaclab/lcls-tools)** — SLAC's shared Python library for
   accelerator controls and data analysis. Top contributor of 15, over five years.
 - **Auto setup** — hierarchical automation of RF cavity characterization, from a single cavity up to
-  the whole machine. Replaced a multi-hour manual procedure with a 20-minute automated one;
-  recognized with a SLAC Technology Excellence Award. Originally
+  the whole machine. Replaced a multi-hour manual procedure with an automated one: twenty minutes
+  at the time of the SLAC Technology Excellence Award it won, and five minutes now. Originally
   [slaclab/srf_auto_setup](https://github.com/slaclab/srf_auto_setup), since migrated into
   `sc_linac_physics` and substantially improved — it's still the tool operators use.
 

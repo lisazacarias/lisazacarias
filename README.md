@@ -35,9 +35,10 @@ is agent-written.
   RLS policies, built in five days against a real deadline. Includes what the approach cost and a
   straight account of which decisions were mine and which were Claude's. Application source is
   private; this is the write-up.
-- **[piano-practice](https://github.com/lisazacarias/piano-practice)** — sight-reading trainer for
-  self-taught piano study.
-- **[static-apps](https://github.com/lisazacarias/static-apps)** — small self-contained web tools.
+- **[static-apps](https://github.com/lisazacarias/static-apps)** — a monorepo of small personal web
+  apps ([live](https://lisazacarias.github.io/static-apps/)) under one constraint: no build step,
+  no bundler, nothing from npm at runtime. A piano sight-reading trainer, an algae bloom tracker,
+  and a Hayward election results tracker.
 
 ### Elsewhere
 

@@ -27,8 +27,14 @@ three further SRF papers.
 
 ### Side projects
 
-Built with Claude Code: architecture and product decisions mine, implementation agent-directed.
+Built with Claude Code. I bring the requirements, the domain, and the testing; the implementation
+is agent-written.
 
+- **[candy-dance-case-study](https://github.com/lisazacarias/candy-dance-case-study)** — how the
+  CAN.dy membership platform works and why: bylaws enforced as Postgres constraints, triggers and
+  RLS policies, built in five days against a real deadline. Includes what the approach cost and a
+  straight account of which decisions were mine and which were Claude's. Application source is
+  private; this is the write-up.
 - **[piano-practice](https://github.com/lisazacarias/piano-practice)** — sight-reading trainer for
   self-taught piano study.
 - **[static-apps](https://github.com/lisazacarias/static-apps)** — small self-contained web tools.
